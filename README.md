@@ -60,3 +60,10 @@ const json = unflatten(
 
 console.log(json);
 ```
+
+## NPM Package
+
+```
+https://www.npmjs.com/package/jsonkeyflat
+
+```
