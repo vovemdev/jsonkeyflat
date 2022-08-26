@@ -6,6 +6,7 @@ jsonKeyFlat - flatten or unflatten json data. Need of flattening JSON:- There ar
 
 jsonKeyFlat Objects extension to convert a nested data layer object into a new object with only one layer of key/value pairs.
 
+# install the npm
 ```
 npm i jsonkeyflat
 ```
